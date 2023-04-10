@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/chilling-app/static/css/main.68605afe.css",
+    "main.js": "/chilling-app/static/js/main.b0c4461a.js",
+    "static/media/bg7.gif": "/chilling-app/static/media/bg7.b53753e1ee194962bebd.gif",
+    "static/media/XuanOiOLaiChoi.mp3": "/chilling-app/static/media/XuanOiOLaiChoi.d4e72735a9664e187e8f.mp3",
+    "static/media/bg6.gif": "/chilling-app/static/media/bg6.ec7a25e246699ab82f36.gif",
+    "static/media/NgayXuanLongPhungSumVay.mp3": "/chilling-app/static/media/NgayXuanLongPhungSumVay.3428ce988aab1199ef5b.mp3",
+    "static/media/DoanXuanCa.mp3": "/chilling-app/static/media/DoanXuanCa.3ad7c391c3566e933360.mp3",
+    "static/media/bg1.gif": "/chilling-app/static/media/bg1.00e8204e05f23d220480.gif",
+    "static/media/bg8.gif": "/chilling-app/static/media/bg8.28a341fa944d42f366c4.gif",
+    "static/media/bg5.gif": "/chilling-app/static/media/bg5.91742f2403b02b6be26a.gif",
+    "static/media/bg4.gif": "/chilling-app/static/media/bg4.08d526c06ec9c9fc028d.gif",
+    "static/media/bg3.gif": "/chilling-app/static/media/bg3.139756ea4f453f759cfc.gif",
+    "static/media/bg2.gif": "/chilling-app/static/media/bg2.e730126bd5bbf53251e6.gif",
+    "static/media/bg9.gif": "/chilling-app/static/media/bg9.41ae7d20142c015ecc10.gif",
+    "index.html": "/chilling-app/index.html",
+    "main.68605afe.css.map": "/chilling-app/static/css/main.68605afe.css.map",
+    "main.b0c4461a.js.map": "/chilling-app/static/js/main.b0c4461a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68605afe.css",
+    "static/js/main.b0c4461a.js"
+  ]
+}
