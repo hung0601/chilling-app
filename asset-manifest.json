@@ -1,25 +1,29 @@
 {
   "files": {
-    "main.css": "/chilling-app/static/css/main.68605afe.css",
-    "main.js": "/chilling-app/static/js/main.b0c4461a.js",
+    "main.css": "/chilling-app/static/css/main.d0bdcbab.css",
+    "main.js": "/chilling-app/static/js/main.92027763.js",
+    "static/media/storm-clouds-purpple-cat.mp3": "/chilling-app/static/media/storm-clouds-purpple-cat.11a7dc9c455a83f9ffd5.mp3",
+    "static/media/Flowers.mp3": "/chilling-app/static/media/Flowers.cf68bf260b394e9d8f59.mp3",
     "static/media/bg7.gif": "/chilling-app/static/media/bg7.b53753e1ee194962bebd.gif",
-    "static/media/XuanOiOLaiChoi.mp3": "/chilling-app/static/media/XuanOiOLaiChoi.d4e72735a9664e187e8f.mp3",
+    "static/media/Dream-of-her.mp3": "/chilling-app/static/media/Dream-of-her.72a05b0fb44de182c932.mp3",
     "static/media/bg6.gif": "/chilling-app/static/media/bg6.ec7a25e246699ab82f36.gif",
-    "static/media/NgayXuanLongPhungSumVay.mp3": "/chilling-app/static/media/NgayXuanLongPhungSumVay.3428ce988aab1199ef5b.mp3",
-    "static/media/DoanXuanCa.mp3": "/chilling-app/static/media/DoanXuanCa.3ad7c391c3566e933360.mp3",
-    "static/media/bg1.gif": "/chilling-app/static/media/bg1.00e8204e05f23d220480.gif",
+    "static/media/Calm-and-Peaceful.mp3": "/chilling-app/static/media/Calm-and-Peaceful.2c40d21dd2f48345d362.mp3",
+    "static/media/sound2.mp3": "/chilling-app/static/media/sound2.7fb4ec142cc062cb9fb7.mp3",
+    "static/media/sound1.mp3": "/chilling-app/static/media/sound1.356ce0d18652dee619d7.mp3",
+    "static/media/Heart-Of-The-Ocean.mp3": "/chilling-app/static/media/Heart-Of-The-Ocean.6ded62628f01dd42410e.mp3",
     "static/media/bg8.gif": "/chilling-app/static/media/bg8.28a341fa944d42f366c4.gif",
     "static/media/bg5.gif": "/chilling-app/static/media/bg5.91742f2403b02b6be26a.gif",
     "static/media/bg4.gif": "/chilling-app/static/media/bg4.08d526c06ec9c9fc028d.gif",
     "static/media/bg3.gif": "/chilling-app/static/media/bg3.139756ea4f453f759cfc.gif",
     "static/media/bg2.gif": "/chilling-app/static/media/bg2.e730126bd5bbf53251e6.gif",
     "static/media/bg9.gif": "/chilling-app/static/media/bg9.41ae7d20142c015ecc10.gif",
+    "static/media/note-bg.png": "/chilling-app/static/media/note-bg.3baf568f9efc9f16179f.png",
     "index.html": "/chilling-app/index.html",
-    "main.68605afe.css.map": "/chilling-app/static/css/main.68605afe.css.map",
-    "main.b0c4461a.js.map": "/chilling-app/static/js/main.b0c4461a.js.map"
+    "main.d0bdcbab.css.map": "/chilling-app/static/css/main.d0bdcbab.css.map",
+    "main.92027763.js.map": "/chilling-app/static/js/main.92027763.js.map"
   },
   "entrypoints": [
-    "static/css/main.68605afe.css",
-    "static/js/main.b0c4461a.js"
+    "static/css/main.d0bdcbab.css",
+    "static/js/main.92027763.js"
   ]
 }
