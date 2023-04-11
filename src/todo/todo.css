@@ -1,0 +1,96 @@
+.todolist {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 450px;
+}
+
+.todo-list {
+    font-family: "Lucida Handwriting" !important;
+    margin-left: 20px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: url("../images/note-bg.png") no-repeat;
+    background-size: cover;
+    padding: 30px;
+    min-height: 450px;
+
+
+}
+
+.form {
+    margin-top: 40px;
+}
+
+
+.todo-items::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background-color: #F5F5F5;
+}
+
+.todo-items::-webkit-scrollbar {
+    width: 6px;
+    background-color: #F5F5F5;
+}
+
+.todo-items::-webkit-scrollbar-thumb {
+    background-image: -webkit-gradient(linear,
+            left bottom,
+            left top,
+            color-stop(0.44, rgb(122, 153, 217)),
+            color-stop(0.72, rgb(73, 125, 189)),
+            color-stop(0.86, rgb(28, 58, 148)));
+    ;
+}
+
+.todo-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 20px 0;
+    width: 70%;
+    border-bottom: 1px solid #cecece;
+    /* font-family: Roboto, sans-serif; */
+    font-weight: 400;
+    font-size: 15px;
+    color: #333333;
+    width: 100%;
+
+}
+
+.todo-items {
+    width: 80%;
+    overflow-y: scroll;
+    max-height: 300px !important;
+}
+
+.checkbox-text {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+input[type=checkbox] {
+    margin-right: 10px;
+    font-size: 30px;
+}
+
+input[type=checkbox]:focus {
+    outline: 0;
+}
+
+.hidden {
+    display: none;
+}
+
+.todolist-button {
+    font-size: 2.5rem !important;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.delete-button {
+    color: red;
+}
